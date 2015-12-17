@@ -1,0 +1,595 @@
+fileFormatVersion: 2
+guid: e6b75871d28dd4f58845dce4b1a510d8
+timeCreated: 1450274766
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MortClownDroite2_0
+    21300002: MortClownDroite2_1
+    21300004: MortClownDroite2_2
+    21300006: MortClownDroite2_3
+    21300008: MortClownDroite2_4
+    21300010: MortClownDroite2_5
+    21300012: MortClownDroite2_6
+    21300014: MortClownDroite2_7
+    21300016: MortClownDroite2_8
+    21300018: MortClownDroite2_9
+    21300020: MortClownDroite2_10
+    21300022: MortClownDroite2_11
+    21300024: MortClownDroite2_12
+    21300026: MortClownDroite2_13
+    21300028: MortClownDroite2_14
+    21300030: MortClownDroite2_15
+    21300032: MortClownDroite2_16
+    21300034: MortClownDroite2_17
+    21300036: MortClownDroite2_18
+    21300038: MortClownDroite2_19
+    21300040: MortClownDroite2_20
+    21300042: MortClownDroite2_21
+    21300044: MortClownDroite2_22
+    21300046: MortClownDroite2_23
+    21300048: MortClownDroite2_24
+    21300050: MortClownDroite2_25
+    21300052: MortClownDroite2_26
+    21300054: MortClownDroite2_27
+    21300056: MortClownDroite2_28
+    21300058: MortClownDroite2_29
+    21300060: MortClownDroite2_30
+    21300062: MortClownDroite2_31
+    21300064: MortClownDroite2_32
+    21300066: MortClownDroite2_33
+    21300068: MortClownDroite2_34
+    21300070: MortClownDroite2_35
+    21300072: MortClownDroite2_36
+    21300074: MortClownDroite2_37
+    21300076: MortClownDroite2_38
+    21300078: MortClownDroite2_39
+    21300080: MortClownDroite2_40
+    21300082: MortClownDroite2_41
+    21300084: MortClownDroite2_42
+    21300086: MortClownDroite2_43
+    21300088: MortClownDroite2_44
+    21300090: MortClownDroite2_45
+    21300092: MortClownDroite2_46
+    21300094: MortClownDroite2_47
+    21300096: MortClownDroite2_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MortClownDroite2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1190
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1190
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1190
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1190
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1190
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1190
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1190
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1018
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1018
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1018
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1018
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1018
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_12
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1018
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_13
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1018
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 846
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_16
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 846
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 846
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 846
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_19
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 846
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_20
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 846
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 674
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 674
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 674
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 674
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 674
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_26
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 674
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_27
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 674
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 502
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 502
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_31
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 502
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 502
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_33
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 502
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_34
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 502
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 330
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_37
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 330
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 330
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 330
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_40
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 330
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_41
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 330
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 158
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_44
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 158
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 158
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_46
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 158
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 158
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MortClownDroite2_48
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 158
+        width: 135
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
